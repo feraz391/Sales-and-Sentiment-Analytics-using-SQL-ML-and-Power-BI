@@ -27,5 +27,5 @@ The goal was to derive actionable insights into **sales patterns, discount impac
 ## ⚙️ Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/feraz391/Customer-Purchase-Behavior-and-Sentiment-Analysis.git
+   git clone https://github.com/feraz391/Sales-and-Sentiment-Analytics-using-SQL-ML-and-Power-BI.git
    cd Customer-Purchase-Behavior-and-Sentiment-Analysis
