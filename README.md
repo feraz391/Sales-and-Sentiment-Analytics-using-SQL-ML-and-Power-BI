@@ -1,4 +1,4 @@
-# Customer Purchase Behavior and Sentiment Analysis
+# Sales and Sentiment Analytics using SQL, ML, and Power BI
 
 ## 📌 Project Overview  
 This project focuses on analyzing **customer purchase behavior** and **sentiment** from sales and review data.  
