@@ -1,6 +1,6 @@
 # Sales and Sentiment Analytics using SQL, ML, and Power BI
 
-## 📌 Project Overview  
+##  Project Overview  
 This project focuses on analyzing **customer purchase behavior** and **sentiment** from sales and review data.  
 It was conducted as a **self-initiated project (June 2025 – July 2025)**.  
 
@@ -8,7 +8,7 @@ The goal was to derive actionable insights into **sales patterns, discount impac
 
 ---
 
-## ✨ Features  
+##  Features  
 - **ETL Pipeline**: Extracted, transformed, and loaded sales and review data for analysis.  
 - **SQL Aggregations**: Performed queries to analyze sales patterns, discount effects, and product performance metrics.  
 - **Sentiment Analysis Pipeline**: Built a machine learning pipeline using **TextBlob** for initial text processing, **TF-IDF** for feature extraction, and **classifiers (Naive Bayes, SVM)**, achieving **97% accuracy**.  
@@ -16,7 +16,7 @@ The goal was to derive actionable insights into **sales patterns, discount impac
 
 ---
 
-## 🛠 Technologies Used  
+##  Technologies Used  
 - **Data Processing**: Python (Pandas, NumPy), SQL  
 - **Sentiment Analysis**: TextBlob, Scikit-learn (TF-IDF, Naive Bayes, SVM)  
 - **Visualization**: Power BI  
@@ -24,7 +24,7 @@ The goal was to derive actionable insights into **sales patterns, discount impac
 
 ---
 
-## ⚙️ Installation  
+##  Installation  
 1. Clone the repository:  
    ```bash
    git clone https://github.com/feraz391/Sales-and-Sentiment-Analytics-using-SQL-ML-and-Power-BI.git
